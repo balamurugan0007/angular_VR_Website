@@ -1,0 +1,99 @@
+body{
+    overflow-x: hidden;
+}
+
+
+.custom-shape-divider-bottom-1712225171 {
+    position: absolute;
+    bottom: -30px;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1712225171 svg {
+    position: relative;
+    display: block;
+    width: calc(171% + 1.3px);
+    height: 263px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1712225171 .shape-fill {
+    fill: #FFFFFF;
+}
+
+
+
+.custom-shape-divider-bottom-1712230733 {
+    position: absolute;
+   
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+    margin-top: 169px;
+}
+
+.custom-shape-divider-bottom-1712230733 svg {
+    position: relative;
+    display: block;
+    width: calc(193% + 1.3px);
+    height: 295px;
+}
+
+.custom-shape-divider-bottom-1712230733 .shape-fill {
+    fill: #6b078c;
+}
+.second-section{
+    
+    width: 100%;
+   
+    background-image: linear-gradient(to right bottom, #ac156b, #a10373, #93007b, #810084, #6b078c, #5a1889, #492084, #39247e, #35296b, #332c57, #312d43, #2e2e2e);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.css-blurry-gradient {
+    position: absolute;
+    top: 50%;
+    
+    transform: translate(-50%, 0%);
+    width:100%;
+    height: 40vh;
+      border-radius: 50% 22% 40% 80%;  
+      filter: blur(100px);
+    background:radial-gradient(circle, #a10373, #8c1079, #74197d, #59207f, #39247e);
+    opacity: 0.4;
+  }
+
+
+  .css-blurry-gradient2 {
+    position: absolute;
+    margin-top: 300px;
+    
+    top: 100%;
+    transform: translate(-50%, 0%);
+    width:20%;
+    height: 40vh;
+      border-radius: 50% 22% 40% 80%;  
+      filter: blur(100px);
+    background:radial-gradient(circle, #a10373, #8c1079, #74197d, #59207f, #39247e);
+    opacity: 0.4;
+  }
+
+
+
+  .customer_section{
+
+    background-image: url('../../assets/back.jpg');
+    object-fit: cover;
+    /* background-repeat: no-repeat; */
+    width: 100%;
+    height: 400px;
+
+  }
+
+
